@@ -1,0 +1,16 @@
+D:\Projects\Тесты\DDesignTest_Folomeev\DDesignTest_Folomeev\bin\Debug\DDesignTest_Folomeev.exe.config
+D:\Projects\Тесты\DDesignTest_Folomeev\DDesignTest_Folomeev\bin\Debug\DDesignTest_Folomeev.exe
+D:\Projects\Тесты\DDesignTest_Folomeev\DDesignTest_Folomeev\bin\Debug\DDesignTest_Folomeev.pdb
+D:\Projects\Тесты\DDesignTest_Folomeev\DDesignTest_Folomeev\obj\Debug\DDesignTest_Folomeev.csprojResolveAssemblyReference.cache
+D:\Projects\Тесты\DDesignTest_Folomeev\DDesignTest_Folomeev\obj\Debug\MainWindow.g.cs
+D:\Projects\Тесты\DDesignTest_Folomeev\DDesignTest_Folomeev\obj\Debug\App.g.cs
+D:\Projects\Тесты\DDesignTest_Folomeev\DDesignTest_Folomeev\obj\Debug\DDesignTest_Folomeev_MarkupCompile.cache
+D:\Projects\Тесты\DDesignTest_Folomeev\DDesignTest_Folomeev\obj\Debug\DDesignTest_Folomeev_MarkupCompile.lref
+D:\Projects\Тесты\DDesignTest_Folomeev\DDesignTest_Folomeev\obj\Debug\MainWindow.baml
+D:\Projects\Тесты\DDesignTest_Folomeev\DDesignTest_Folomeev\obj\Debug\DDesignTest_Folomeev.g.resources
+D:\Projects\Тесты\DDesignTest_Folomeev\DDesignTest_Folomeev\obj\Debug\DDesignTest_Folomeev.Properties.Resources.resources
+D:\Projects\Тесты\DDesignTest_Folomeev\DDesignTest_Folomeev\obj\Debug\DDesignTest_Folomeev.csproj.GenerateResource.Cache
+D:\Projects\Тесты\DDesignTest_Folomeev\DDesignTest_Folomeev\obj\Debug\DDesignTest_Folomeev.exe
+D:\Projects\Тесты\DDesignTest_Folomeev\DDesignTest_Folomeev\obj\Debug\DDesignTest_Folomeev.pdb
+D:\Projects\Тесты\DDesignTest_Folomeev\DDesignTest_Folomeev\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projects\Тесты\DDesignTest_Folomeev\DDesignTest_Folomeev\obj\Debug\App.baml
